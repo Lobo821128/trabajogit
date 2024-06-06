@@ -1,0 +1,25 @@
+<h1>COLOMBIANFLIX</h1>
+<img src="tvcolombiana.jpg" >
+<br>
+<h2>INICIO DE SESION</h2>
+<br>
+<form>
+    
+    <br>
+    <input type="email o name"name="e-mail o Nombre" id- placeholder="E-mail o Nombre">
+    <br>
+    <br>
+    <input type="password"name="password"id- placeholder="Contraseña">
+    <br>
+    <br>
+    <input type="reset" value="ingresar"id- placeholder="ingresar">
+
+    <h3>o</h3>
+     
+    <input type="submit" value="ingresa codigo QR"id-placeholder="ingresa codigo QR"
+    >
+
+
+    
+ 
+</form>
